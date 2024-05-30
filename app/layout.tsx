@@ -10,8 +10,8 @@ const ibmPlexSherif=IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "Blue Emerald",
-  description: "Blue Emerald is a modern Banking Platform for the crowd",
+  title: "Emerald",
+  description: "Emerald is a modern Banking Platform for the crowd",
   icons:'/icons/logo.svg'
 };
 
